@@ -54,11 +54,11 @@ This package is released under the MIT License. You can find more details in the
 
 ## Contributing
 
-If you have suggestions or encounter issues, feel free to open an issue or submit a pull request on our [GitHub repository](https://github.com/your-github-username/qr-code-scanner).
+If you have suggestions or encounter issues, feel free to open an issue or submit a pull request on our [GitHub repository](https://github.com/Mohammad-Shoeb-Faizan/qr-code-scanner).
 
 ## Author
 
-This package was created by [Mohammad Shoeb Faizan](https://github.com/your-github-username).
+This package was created by [Mohammad Shoeb Faizan](https://github.com/Mohammad-Shoeb-Faizan).
 
 ## Acknowledgments
 

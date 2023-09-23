@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["QR code", "scanner", "generator", "QR code scanner", "QR code generator"],
+  "author": "Mohammad Shoeb Faizan",
   "license": "ISC",
   "dependencies": {
     "jsqr": "^1.4.0",
