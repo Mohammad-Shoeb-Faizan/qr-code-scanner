@@ -1,5 +1,5 @@
 {
-  "name": "qr-code-scanner",
+  "name": "qr-code-scanner-sumzai",
   "version": "1.0.0",
   "description": "A simple QR code scanner and generator",
   "main": "index.js",
